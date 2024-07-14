@@ -26,7 +26,7 @@ class RecipeHomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'CM',
+          'CookMate',
           style: TextStyle(fontSize: 40, fontStyle: FontStyle.italic),
         ),
         backgroundColor: const Color.fromARGB(255, 210, 241, 51),
